@@ -1,0 +1,46 @@
+
+body{
+
+padding-top:10%;
+background-color: rgba(98, 16, 143, 0.84);
+}
+
+.form-login {
+max-width:350px;
+padding:40px;
+border-radius:30px;
+background-color: rgba(243, 212, 250, 0.721);
+margin:0 auto;
+
+}
+
+
+.form-login .form-login-heading{
+color:#5f33b7;
+text-align:center;
+
+}
+
+.form-login .form-control {
+position:relative;
+height:auto;
+box-sizing:border-box;
+padding:10px;
+font-size:16px;
+
+}
+
+.form-login input[type="text"] {
+margin-bottom:5px;
+border-bottom-right-radius:0;
+border-bottom-left-radius: 0;
+
+}
+
+.form-login input[type="password"] {
+margin-bottom:10px;
+border-top-left-radius: 0;
+border-top-right-radius:0;
+
+
+}
